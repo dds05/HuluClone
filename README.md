@@ -2,7 +2,7 @@
 
 -->Features:-
 1. Cool animations and use of Tailwind Css.
-2. Next js for server side rendering (it uses TMDB api to fetch results of different genres).
+2. Next js for server side rendering (it uses TMDB api to fetch results for different genres).
 
    
 -->Instructions to install:-
