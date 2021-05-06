@@ -7,4 +7,5 @@
    
 -->Instructions to install:-
 1. npm install (to install the dependancies).
-1. npm run dev.
+2. Set your environment variable for API_KEY from https://www.themoviedb.org/settings/api. 
+3. npm run dev.
